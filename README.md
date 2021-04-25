@@ -1,2 +1,2 @@
 # HackerRank
-HackerRank Python Solutions and some extra files
+HackerRank Python Solutions and some extra python files
